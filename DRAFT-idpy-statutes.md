@@ -1,13 +1,11 @@
-Metadata | 
---------- | --------
-Title | Statutes of IdentityPython
-DRACC | [To Be Assigned]
-Category | Regulatory
-Scope | Programme
-Authors | Flanagan, H.
-Date | 25 July 2018
-Version | DRAFT v.0.2
-Copyright | This document is copyright: The Commons Conservancy and IdentityPython. It can be used under a Creative Commons Attribution 4.0 International license.
+Title: Statutes of IdentityPython
+DRACC: [To Be Assigned]
+Category: Regulatory
+Scope: Programme
+Authors: Flanagan, H.
+Date: 25 July 2018
+Version: DRAFT v.0.2
+Copyright: This document is copyright: The Commons Conservancy and IdentityPython. It can be used under a Creative Commons Attribution 4.0 International license.
 	
 
 # Purpose
