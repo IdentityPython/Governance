@@ -60,8 +60,12 @@ Each Director agrees to use his best efforts to resolve disputes in an informal 
 ## IdentityPython Projects
 Anyone may propose that a software project be included in the IdentityPython. The software project must meet the following criteria:
 
-* Developed under an Apache2 license
+* Is developed preferably under the Apache2 license
+
+  Going forward, we would like every project under IdentityPython to be licensed under the Apache2 license. Software licensed under one of the licenses on the Free Software Foundation's list of "recommended copyleft licenses" or under any license approved by the Open Source Initiative is eligible but is strongly recommended to consider switching to Apache2.
+
 * Supports a need within the Identity and Access Management space
+
 * Is developed using the Python coding language
 
 Individuals proposing that a project be added to IdentityPython must:
@@ -90,7 +94,7 @@ Any conflict of interest or apparent conflict of interest between IdentityPython
 Decisions involving activities under which one or more Directors would have conflicts of interest that are of material significance to the Programme and/or to the relevant Director(s) require the approval of the entire IdentityPython Board minus the Director(s) with a conflict of interest.
 
 # Licensing Policy
-All software and content created or maintained within IdentityPython is to be made publicly available perpetually at no cost under one or more of the licenses on the Free Software Foundation's list of "recommended copyleft licenses" or any license approved by the Open Source Initiative on or after the submission date.
+All software and content created or maintained within IdentityPython is to be made publicly available perpetually at no cost under one of the licenses on the Free Software Foundation's list of "recommended copyleft licenses" or any license approved by the Open Source Initiative on or after the submission date.
 
 When additional licensing needs (which would make the identical software or assets available also through licenses not on those lists) arise, the IdentityPython Board is responsible for deciding on a case by case basis how this shall be best dealt with. In such matters the Board SHALL act in the common interest of the user and developer community, respectful of the spirit and intents of the original creators of and contributors to IdentityPython.
 
