@@ -105,8 +105,8 @@ The following decisions are ratified by the signatories when these Statutes take
 
 - The founding IdentityPython Board shall be comprised of the individuals acting as signatories of the initial version of these Statutes, the act of which also has established all signees as Directors.
 - One person (to be named) is appointed as the IdentityPython Chair for a period of 12 months.
-- Two people, including one at-large (to be named) are appointed as Directors of the IdentityPython Board for a period of 12 months.
-- Two people, including one at-large (to be named) are appointed as Directors of the IdentityPython Board for a period of 24 months.
+- Three people, including one at-large (to be named) are appointed as Directors of the IdentityPython Board for a period of 12 months.
+- Three people, including one at-large (to be named) are appointed as Directors of the IdentityPython Board for a period of 24 months.
 
 The IdentityPython Board commits to identify and approach all rights holders, and ask them to transfer the moral stewardship of the codebase to the IdentityPython Programme.
 
