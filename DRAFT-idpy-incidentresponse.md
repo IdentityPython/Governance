@@ -1,7 +1,13 @@
 # Security Incident Response Plan for Identity Python-governed Projects
 
 ## Version 0.3 2018-07-25
-The following details the steps and actions that we should consider when responding to security issues related to projects governed by the Identity Python project. Some steps may not be necessary in all cases. Regardless, the Identity Python members should follow a _no-blame policy_; the focus should always be on improving the project rather than pointing fingers at contributors.
+
+The following details the steps and actions that we should consider when
+responding to security issues related to projects governed by the Identity
+Python project. Some steps may not be necessary in all cases. Regardless, the
+Identity Python members should follow a _no-blame policy_; the focus should
+always be on improving the project rather than pointing fingers at
+contributors.
 
 | Stage | Activities |
 | ----- | ---------- |
