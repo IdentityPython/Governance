@@ -9,6 +9,10 @@ Identity Python members should follow a _no-blame policy_; the focus should
 always be on improving the project rather than pointing fingers at
 contributors.
 
+Recognizing the importance of security research we will publicly acknowledge
+the people that report an incident on a dedicated page on [the idpy
+website][idpyweb].
+
 | Stage | Activities |
 | ----- | ---------- |
 | Discovery | Reporter: <ul> <li>Anyone can submit a potential security vulnerability to <incident-response@idpy.org> </li></ul>Security Monitor:<ul><li>Semi-permanent role identified by the Identity Python Board of Directors. This person sits on the <incident-response@idpy.org> list.</li><li>Creates issue in the appropriate IdentityPython GitHub project space, anonymizing the report if requested to do so by the reporter.</li><li>Sends an email regarding the potential issue to the Board.</li><li>Acknowledges reporter.</li></ul> |
@@ -80,5 +84,6 @@ Upgrade affected <product> deployments as soon as possible using the link above.
 
 ---
 
+  [idpyweb]: https://idpy.org
   [CVE-ID]: http://iwantacve.org/
   [CVSS]: http://nvd.nist.gov/cvss.cfm
