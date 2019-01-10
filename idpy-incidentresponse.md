@@ -18,6 +18,12 @@ contributors.
 | Community Disclosure & Patch Release | Technical Resource (or separate release engineer):<ul><li>Creates patch release or remediation instructions.</li><li>Publishes patch release in consultation with the Incident Manager.</li></ul>Incident Manager:<ul><li>Sends disclosure notice to code repository owners.</li><li>Obtains a Common Vulnerabilities and Exposures Identifier ([CVE-ID])</li></ul> |
 | Post-Mortem Retrospective | <ul><li>The Board discusses the Security Incident Response Plan as it played out for this incident, inspecting and adapting to handle the next one better.</li><li>The <discuss@idpy.org> list discusses the technical substance of the vulnerability and its fix, identifying opportunities to refactor the fix in subsequent releases now that it has more eyes on it and opportunities to improve the product and development practices to prevent or mitigate similar issues in the future.</li></ul> |
 
+## Storage policy for incident reports
+
+Incident reports are stored indefinitely in the form of mailing list archives
+on the <incident-response@idpy.org> mailing list, and in the of GitHub issues
+filled under the appropriate project-repository.
+
 # Appendix A: Templates
 
 ## Reporter acknowledgement
