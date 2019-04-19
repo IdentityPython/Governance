@@ -20,7 +20,7 @@ contributors.
 
 ## Storage policy for incident reports
 
-Incident reports are stored indefinitely in the form of mailing list archives
+Incident reports are stored for the duration of the idpy project in the form of mailing list archives
 on the <incident-response@idpy.org> mailing list, and in the list of GitHub issues
 filled under the appropriate project-repository.
 
