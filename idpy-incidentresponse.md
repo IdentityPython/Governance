@@ -9,9 +9,9 @@ Identity Python members should follow a _no-blame policy_; the focus should
 always be on improving the project rather than pointing fingers at
 contributors.
 
-Recognizing the importance of security research we will publicly acknowledge
-the people that report an incident on a dedicated page on [the idpy
-website][idpyweb].
+Recognizing the importance of security research
+we will publicly acknowledge the people that report an incident, granted their consent,
+on a dedicated page on [the Identity Python website][idpyweb].
 
 | Stage | Activities |
 | ----- | ---------- |
