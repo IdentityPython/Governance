@@ -8,7 +8,7 @@ Scope: Programme
 
 Authors: Flanagan, H.
 
-Date: March 2019
+Date: DRAFT - February 2021
 
 Canonical copy available at <https://dracc.commonsconservancy.org/0025/>
 
@@ -17,6 +17,7 @@ Copyright: This document is copyright: The Commons Conservancy and IdentityPytho
 # Project addition
 
 ## Proposal format
+Code base maintainers who are interested in having their project brought under the IdentityPython collection should send a message to the discuss@idpy.org mailing list using the following template:
 
 * Introduction of the maintainer(s)
 	* Introduction could be just a hello from the person in charge. and a minimal message on that person’s availability in relation to the project development. We do not collect projects, we want the people that develop those to keep doing that and have them become part of the organisation and their project part of the ecosystem.
@@ -27,6 +28,8 @@ Copyright: This document is copyright: The Commons Conservancy and IdentityPytho
 	* Is there a relation to a more generic AAI concept?
 * Current project state
 	* How far is the project from its goals? What are the problems it is facing (technical / community / dedication-time)?
+* What other projects does this codebase depend on (if any)?
+
 * Project metadata:
 	* URL to project website
 	* URL to project source code
@@ -40,13 +43,13 @@ Once we have such a proposal we should evaluate the project and come to a conclu
 
 ##Technical quality
 
-* Is there an architecture document?
-* How much work is needed to be incorporated with our coding standards and practices?
-* Does it have (updated) documentation?
-* Does it have tests?
-* Does it have a CI setup?
-* What other projects does it depend on?
-* What is going on in the ticketing system (number of bugs and general activity)?
+Projects under the IdentityPython banner should include and support the following to allow for easier alignment and administration:
+
+* projects should include documentation posted on readthedocs.io
+* projects should follow semantic versioning as described at semver.org
+* new releases should include change logs
+* projects should include code tests
+* projects should add templates for issues and pull requests (see for example <https://github.com/IdentityPython/SATOSA/blob/master/issue_template.md> and <https://github.com/IdentityPython/SATOSA/blob/master/pull_request_template.md>.
 
 ## People quality
 
@@ -78,6 +81,8 @@ Process duration
 Individuals will have a chance to express their position for four weeks before a final decision is made.
 
 Needless to say, that the community members must trust the decisions of other members, and as such should not demand that they are present in every process. Rough consensus is what we are striving for - unanimity is pretty hard to achieve.
+
+Once the development community has reached consensus on whether the new project should be included under the IdentityPython banner, the Board will take a final vote and inform the project maintainers as to next steps.
 
 ## Aftermath
 
