@@ -41,7 +41,7 @@ While all these might seem like too much bureaucracy, each of these sections cou
 
 Once we have such a proposal we should evaluate the project and come to a conclusion.
 
-##Technical quality
+## Technical quality
 
 Projects under the IdentityPython banner should include and support the following to allow for easier alignment and administration:
 
