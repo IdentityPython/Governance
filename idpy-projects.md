@@ -8,11 +8,13 @@ Scope: Programme
 
 Authors: Flanagan, H.
 
-Date: DRAFT - February 2021
+Date: March 2021
 
 Canonical copy available at <https://dracc.commonsconservancy.org/0025/>
 
 Copyright: This document is copyright: The Commons Conservancy and IdentityPython. It can be used under a Creative Commons Attribution 4.0 International license.
+
+*Updated on 18 March 2021*
 
 # Project addition
 
@@ -48,8 +50,10 @@ Projects under the IdentityPython banner should include and support the followin
 * projects should include documentation posted on readthedocs.io
 * projects should follow semantic versioning as described at semver.org
 * new releases should include change logs
-* projects should include code tests
+* projects should include code tests with approximately 80% coverage of the code base
 * projects should add templates for issues and pull requests (see for example <https://github.com/IdentityPython/SATOSA/blob/master/issue_template.md> and <https://github.com/IdentityPython/SATOSA/blob/master/pull_request_template.md>.
+
+Should any security vulnerabilities be found in any idpy code base, the Identity Python [Incident Response Plan](https://github.com/IdentityPython/Governance/blob/master/idpy-incidentresponse.md) must be followed.
 
 ## People quality
 
@@ -68,6 +72,16 @@ There is always a right time to do more. We should not be afraid to reject even 
 The same way we require a project to be in a certain form to be accepted, the same requirement is on us to be in a state to accept that project.
 
 To put it in another way, the organisation should help its project move forward, and give tools and services to the community. If it is in a state that is struggling, then accepting a new project does not help neither party.
+
+## IPR and License
+
+As noted in the Identity Python statues [DRACC 0024],
+
+> All software and content created or maintained within IdentityPython is to be
+> made publicly available perpetually at no cost under one of the licenses on
+> the Free Software Foundation's list of "recommended copyleft licenses" or any
+> license approved by the Open Source Initiative on or after the submission
+> date.
 
 ## Discussion and consensus
 
