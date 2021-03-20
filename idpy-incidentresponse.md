@@ -1,6 +1,8 @@
 # Security Incident Response Plan for Identity Python-governed Projects
 
-## DRAFT - Version 0.5 2021-02-02
+## Version 0.5 2021-02-02
+
+_Approved by the idpy Board on 18 March 2021_
 
 The following details the steps and actions that we should consider when
 responding to security issues related to projects governed by the Identity
